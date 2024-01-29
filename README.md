@@ -4,7 +4,7 @@ This is a raycasting project built in C using the Minilibx library. It renders a
 
 # Installation
 # Clone this repository
-- git clone https://github.com/badi361/Cub3d
+- git clone https://github.com/YusufAnilTurgut/Cub3D.git
 
 # Compile all the files
 - make
