@@ -31,3 +31,9 @@ $ Dynamic lighting
 
 
 <img width="1436" alt="Ekran Resmi 2023-09-29 23 43 06" src="https://github.com/badi361/Cub3D/assets/115088616/dff06e89-6552-41ed-9fb0-1ccdf7fd1efe">
+
+
+
+https://github.com/YusufAnilTurgut/Cub3D/assets/77076915/187d94e6-b80f-4fb7-b319-d612127b98d6
+
+
